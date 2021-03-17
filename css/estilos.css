@@ -1,7 +1,15 @@
 *{
     padding: 0;
     margin: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
     background-color: blue;
+    display: block;
+}
+.avatar{
+    display: block;
 }
 .imgAvatar{
     border-radius: 50%;
