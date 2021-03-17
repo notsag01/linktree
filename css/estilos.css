@@ -5,10 +5,7 @@
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
-    background-color: blue;
-    display: block;
-}
-.avatar{
+    background-color:black;
     display: block;
 }
 .imgAvatar{
@@ -16,4 +13,20 @@
     width: 120px;
     height: 120px;
     border: black 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin: ;
+}
+h1{
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    box-sizing: border-box;
+    font-size: 2.2rem;
+    font-weight: 500;
+    text-align: center;
+}
+.button{
+   width: 100px;
 }
