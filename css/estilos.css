@@ -8,6 +8,9 @@
     background-color:black;
     display: block;
 }
+main{
+    margin-top: 2rem;
+}
 .imgAvatar{
     border-radius: 50%;
     width: 120px;
@@ -16,17 +19,39 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
-    margin: ;
+   
+}
+.grupoBotones{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.btn{
+    width: 500px;
+    padding: 20px 20px;
+    text-align: center;
+    font-size: 150%;
+    margin:10px;
+    border-radius: 12px;
+    color: black;
+    background-color: white;
+    text-transform: capitalize;
 }
 h1{
     color: white;
     padding: 5px;
-    margin: 5px;
+    margin: 10px;
     box-sizing: border-box;
     font-size: 2.2rem;
     font-weight: 500;
     text-align: center;
 }
-.button{
-   width: 100px;
+.footer{
+    color: white;
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
 }
